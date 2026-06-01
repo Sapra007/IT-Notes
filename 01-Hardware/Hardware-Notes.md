@@ -531,4 +531,5 @@ Jaise Aadhar number!
 ---
 
 *Notes by: IT Student*
+
 *Topic: Computer Hardware Fundamentals*
