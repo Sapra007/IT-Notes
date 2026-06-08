@@ -1,5 +1,3 @@
-
-
 ```markdown
 # 🎯 Cloud & DevOps - Basic Roadmap for Beginners
 
